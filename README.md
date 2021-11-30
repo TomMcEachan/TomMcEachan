@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomMcEachan
 - 👀 I’m interested in video game development and full-stack web development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Next.js
 - 📫 Reach me on twitter @TomMcEachan
 
 <!---
